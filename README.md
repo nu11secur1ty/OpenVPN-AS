@@ -3,6 +3,8 @@
 Ubuntu 22.04 & Latest Debin
 ### Online installer
 
+- Installing: need to root
+
 ```curl
 curl -s https://raw.githubusercontent.com/nu11secur1ty/OpenVPN-AS/main/openvpn-as.sh | bash
 ```
