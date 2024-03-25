@@ -8,3 +8,4 @@ apt update -y
 apt upgrade -y
 apt autoremove -y
 apt dist-upgrade -y
+userdel openvpn_as
