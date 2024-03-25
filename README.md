@@ -1,6 +1,6 @@
 # OpenVPN-AS
 
-Ubuntu 22.04 & Latest Debin
+Ubuntu-Server 22.04 & Latest Debian
 ### Online installer
 
 - Installing: need to root
