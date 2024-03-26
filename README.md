@@ -18,4 +18,4 @@ curl -s https://raw.githubusercontent.com/nu11secur1ty/OpenVPN-AS/main/openvpn-a
 curl -s https://raw.githubusercontent.com/nu11secur1ty/OpenVPN-AS/main/purge.sh | bash
 ```
 ### Read more:
-[read](https://github.com/nu11secur1ty/OpenVPN-AS/blob/main/docs/access-server-datasheet.pdf)
+[read](https://github.com/nu11secur1ty/OpenVPN-AS/blob/main/docs/access-server-datasheet.pdf) [online](https://openvpn.net/access-server/)
