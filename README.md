@@ -7,6 +7,9 @@
 ### Working on:
 [Ubuntu-Server](https://ubuntu.com/download/server)
 
+- - - Versions:
+    - jammy
+
 ### Online installer
 
 - Installing: need to root
