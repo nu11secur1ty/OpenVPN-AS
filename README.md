@@ -19,7 +19,7 @@
 curl -s https://raw.githubusercontent.com/nu11secur1ty/OpenVPN-AS/main/openvpn-as-jammy.sh | bash
 ```
 
-- bookworm: ***Ubuntu Server*** + ***Debian 12***
+- bookworm: ***Ubuntu Server 23.04 & 23.10*** + ***Debian 12***
 ```curl
 curl -s https://raw.githubusercontent.com/nu11secur1ty/OpenVPN-AS/main/openvpn-as-bookworm.sh | bash
 ```
