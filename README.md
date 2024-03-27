@@ -18,7 +18,7 @@
 curl -s https://raw.githubusercontent.com/nu11secur1ty/OpenVPN-AS/main/openvpn-as-jammy.sh | bash
 ```
 
-- mantic
+- bookworm
 ```curl
 curl -s https://raw.githubusercontent.com/nu11secur1ty/OpenVPN-AS/main/openvpn-as-bookworm.sh | bash
 ```
