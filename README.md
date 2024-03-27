@@ -12,6 +12,8 @@
 
 - - - Versions:
     - jammy
+    - buster
+    - bookworms
 
 ### Online Ubuntu Server installer
 
