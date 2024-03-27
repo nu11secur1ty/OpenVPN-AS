@@ -13,10 +13,16 @@
 ### Online installer
 
 - Installing: need to root
-
+- jammy
 ```curl
 curl -s https://raw.githubusercontent.com/nu11secur1ty/OpenVPN-AS/main/openvpn-as-jammy.sh | bash
 ```
+
+- mantic
+```curl
+curl -s https://raw.githubusercontent.com/nu11secur1ty/OpenVPN-AS/main/openvpn-as-mantic.sh | bash
+```
+
 ### Enjoy your OpenVPN GUI server 2023 - 2024 =)
 
 ### Uninstall
