@@ -20,7 +20,7 @@ curl -s https://raw.githubusercontent.com/nu11secur1ty/OpenVPN-AS/main/openvpn-a
 
 - mantic
 ```curl
-curl -s https://raw.githubusercontent.com/nu11secur1ty/OpenVPN-AS/main/openvpn-as-mantic.sh | bash
+curl -s https://raw.githubusercontent.com/nu11secur1ty/OpenVPN-AS/main/openvpn-as-bookworm.sh | bash
 ```
 
 ### Enjoy your OpenVPN GUI server 2023 - 2024 =)
