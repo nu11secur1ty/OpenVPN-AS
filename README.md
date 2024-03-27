@@ -24,6 +24,9 @@ curl -s https://raw.githubusercontent.com/nu11secur1ty/OpenVPN-AS/main/openvpn-a
 curl -s https://raw.githubusercontent.com/nu11secur1ty/OpenVPN-AS/main/openvpn-as-bookworm.sh | bash
 ```
 
+### NOTE:
+Don't forget to allow the internet traffic for the users on VPN_Setting =)
+
 ### Enjoy your OpenVPN GUI server 2023 - 2024 =)
 
 ### Uninstall
