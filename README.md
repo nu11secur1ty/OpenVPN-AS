@@ -10,7 +10,7 @@
 - - - Versions:
     - jammy
 
-### Online installer
+### Online Ubuntu Server installer
 
 - Installing: need to root
 - jammy
