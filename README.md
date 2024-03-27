@@ -4,7 +4,9 @@
 
 [![](https://github.com/nu11secur1ty/OpenVPN-AS/blob/main/docs/Screenshot%202024-03-25%20171946.png)](https://www.youtube.com/watch?v=VHz5nphRYcs)
 
-Ubuntu-Server 22.04
+### Working on:
+[Ubuntu-Server](https://ubuntu.com/download/server)
+
 ### Online installer
 
 - Installing: need to root
